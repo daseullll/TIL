@@ -13,4 +13,4 @@
 ### ETC
 
 - [동기 비동기 처리](https://github.com/daseullll/TIL/blob/master/ETC/%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0.md)
-- [REST]()
+- [REST](https://github.com/daseullll/TIL/blob/master/ETC/REST.md)

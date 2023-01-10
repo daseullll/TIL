@@ -1,6 +1,5 @@
-## Today I Learned
+## Today I Learned :runner:
 
----
 
 ### 알고리즘
 

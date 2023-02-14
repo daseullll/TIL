@@ -14,10 +14,14 @@
 
 - [RDBMS와 NOSQL](https://github.com/daseullll/TIL/blob/master/Database/RDBMS%EC%99%80NOSQL.md)
 
+### Java
+
+- [오버라이딩과 오버로딩](https://github.com/daseullll/TIL/blob/master/Java/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
+- [Garbage Collection](https://github.com/daseullll/TIL/blob/master/Java/Garbage Collection.md)
+
 ### ETC
 
 - [동기 비동기 처리](https://github.com/daseullll/TIL/blob/master/ETC/%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 - [REST](https://github.com/daseullll/TIL/blob/master/ETC/REST.md)
 - [MVC 패턴](https://github.com/daseullll/TIL/blob/master/ETC/MVC%ED%8C%A8%ED%84%B4.md)
-- [오버라이딩과 오버로딩](https://github.com/daseullll/TIL/blob/master/ETC/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
 - [MSA](https://github.com/daseullll/TIL/blob/master/ETC/MSA.md)

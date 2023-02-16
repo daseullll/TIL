@@ -2,6 +2,8 @@
 
 <br>
 
+![캡처](https://user-images.githubusercontent.com/77658116/219417159-8402b00b-07a5-4da1-8308-b8c775f458c5.PNG)
+
 - **Spring MVC Framework**란, MVC 패턴을 따르면서 Spring만의 독자적인 Class를 통해 처리를 한다.
 
   <br>

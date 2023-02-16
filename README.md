@@ -25,3 +25,4 @@
 - [REST](https://github.com/daseullll/TIL/blob/master/ETC/REST.md)
 - [MVC 패턴](https://github.com/daseullll/TIL/blob/master/ETC/MVC%ED%8C%A8%ED%84%B4.md)
 - [MSA](https://github.com/daseullll/TIL/blob/master/ETC/MSA.md)
+- [Spring MVC 패턴](https://github.com/daseullll/TIL/blob/master/ETC/MVC%ED%8C%A8%ED%84%B4.md)

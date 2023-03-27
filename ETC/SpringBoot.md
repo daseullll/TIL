@@ -1,4 +1,4 @@
-## Spring과 SpringBoot의 차이
+## Spring과 SpringBoot의 차이점
 
 <br>
 

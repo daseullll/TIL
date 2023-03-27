@@ -26,3 +26,4 @@
 - [MVC 패턴](https://github.com/daseullll/TIL/blob/master/ETC/MVC%ED%8C%A8%ED%84%B4.md)
 - [MSA](https://github.com/daseullll/TIL/blob/master/ETC/MSA.md)
 - [Spring MVC 패턴](https://github.com/daseullll/TIL/blob/master/ETC/SpringMVC%ED%8C%A8%ED%84%B4.md)
+- [Spring과 SpringBoot의 차이](https://github.com/daseullll/TIL/blob/master/ETC/SpringBoot.md)
